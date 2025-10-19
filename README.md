@@ -7,6 +7,7 @@ The PC Engine/TurboGrafx-16 CD-ROM ISO/WAV/CUE Ripper - A Win32 command line too
 <img width="100%" src="https://github.com/user-attachments/assets/fb9c57a3-f3fd-473c-a8ef-256ebef796df" /><br/>
 <img width="100%" src="https://github.com/user-attachments/assets/d85ed92c-a744-4d40-9180-271cc1eb7d00" /><br/>
 <img width="100%" src="https://github.com/user-attachments/assets/b9edab3d-eedf-4e8a-9e8b-c92ed2d42e3c" /><br/>
+<img width="100%" src="https://github.com/user-attachments/assets/abdcfb48-e9fb-4a73-a7d1-04c2c39cab71" /><br/>
 
 <div align="center"><h1>- The Introduction -</h1></div>
 
