@@ -413,18 +413,18 @@ The PC Engine/TurboGrafx-16 CD-ROM ISO/WAV/CUE Ripper - A Win32 command line too
 
 <div align="center"><h1>- Project History -</h1></div>
 
-   In retracing my steps, I found that I queried for information on how to
+   In retracing my steps I found that I queried for information on how to
    create such a program as far back as January 29, 2005 when I asked David
-   Michel, the author of the MagicEngine emulator, on how to read a CD-ROM
-   sector. I decided I wanted a program like this soon after I had released my
-   Ys IV patch as I mentioned in the Introduction. That was Saturday, December
-   25, 2004. For the reasons already stated, there was a real need for such a
-   program given no commercial software can properly produce an ISO/WAV/CUE
-   image file set when it comes to mixed-mode discs such as PC Engine/TG-16.
-   I basically wanted an easy way for someone to take their original Ys IV
-   disc, pop it in their CD/DVD drive, run a program, and have it rip an
+   Michel - the MagicEngine emulator author - how to read a CD-ROM sector. I
+   decided I wanted a program like this soon after I had released my Ys IV
+   patch as I mentioned in the Introduction. That was Saturday, December 25,
+   2004. For the reasons already stated there was a real need for such a
+   program given no commercial software could properly produce an ISO/WAV/CUE
+   image file set when it comes to mixed-mode discs such as PC Engine/TG-16s!
+   I basically wanted an easy/free way for someone to take their original
+   Ys IV CD, pop it in their CD/DVD drive, run a program, and have it rip an
    ISO/WAV/CUE image file set for them with the greatest of ease. This wasn't
-   possible as of yet, so I up and decided I was gonna change that......
+   possible yet, so I up and decided I was gonna change that......
 
    I worked on the idea for a bit in 2005, but I gave up... ASPI documentation
    was rather lacking, and dealing with the process of reading sectors directly
@@ -434,9 +434,9 @@ The PC Engine/TurboGrafx-16 CD-ROM ISO/WAV/CUE Ripper - A Win32 command line too
    Proud to be one when it suits me! No, actually, I'm not... As such, I hadn't
    forgotten about my dream to make this program a year later.
 
-   It was February28, 2006, around the time I suddenly became possessed to
+   It was February 28, 2006, around the time I suddenly became possessed to
    finish the job I had once started. By this time, I had released "TocFixer"
-   which was based onSquaresoft74's TOC database of PC Engine/TG-16 CDROMs. I
+   which was based on Squaresoft74's TOC database of PC Engine/TG-16 CDROMs. I
    had the experience in my belt of having created that application and that's
    partly what motivated me to try once again. I had thought of another cool
    use for the TOC data!! How about a ripping program that detects an original
@@ -457,12 +457,12 @@ The PC Engine/TurboGrafx-16 CD-ROM ISO/WAV/CUE Ripper - A Win32 command line too
    learning what the hell was going on... Thus, I produced the first working
    version of TurboRip 3 weeks later!
 
-   After the first 3 weeks, I got in touch with Squaresoft74 to give him a copy
+   After the first 3 weeks I got in touch with Squaresoft74 to give him a copy
    to test with. Unfortunately, TurboRip didn't behave the same on his drives
-   as it did on all of mine in many tests. So we worked a good deal on figuring
+   as it did on all of mine in many tests! So we worked a good deal on figuring
    out the problems... It was a back'n'forth approach and sometimes I couldn't
    get the feedback as fast as I wanted, but we did it in the end. I took about
-   a week off anything computer-related, but after I resumed working on it, I
+   a week off anything computer-related, but after I resumed working on it I
    fixed all the problems he was having. TurboRip, some 7 weeks later, April 19,
    was finally something I was comfortable releasing for mass distribution. It
    only got better with each day. Hell, it was only hours ago before this first
@@ -473,9 +473,11 @@ The PC Engine/TurboGrafx-16 CD-ROM ISO/WAV/CUE Ripper - A Win32 command line too
    tracks and while cddissect was very close to what I wanted, it would only
    output an audio track directly to MP3 with no option to allow for WAVE
    output... I was thinking of asking the creator for the source code and had
-   that option been available, I probably wouldn't have pursued this project
+   that option been available I probably wouldn't have pursued this project
    interestingly enough...
 
    Alas, here we are. A very exquisite command-line program that should be very
    useful to the PC Engine/TG-16 community as well as to others is before you.
    Go forth, my children, and use the gift I leave on to you wisely. Courage...
+
+   -NightWolve
